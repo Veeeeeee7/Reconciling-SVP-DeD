@@ -1,0 +1,16 @@
+# MIMIC-III derived data is credentialed and is never committed
+mimic_sepsis/mimic_sepsis_data_2025/
+*.csv
+!requirements.txt
+
+# generated outputs
+results/
+mimic_sepsis/results/
+lifegate_synthetic/results/
+*.npy
+*.pkl
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

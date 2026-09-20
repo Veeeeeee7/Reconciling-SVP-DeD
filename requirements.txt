@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+joblib
+click
+pygame        # only needed for the interactive LifeGate renderer
